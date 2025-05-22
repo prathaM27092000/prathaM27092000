@@ -2,7 +2,7 @@
 
 **Backend Developer | Python Enthusiast | Data Analyst**  
 📍 Pune, India  
-📧 prathameshgujja2709@gmail.com
+📧 prathameshgujja10@gmail.com
 
 ---
 
