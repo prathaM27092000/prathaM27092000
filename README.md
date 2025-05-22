@@ -8,9 +8,11 @@
 
 ## 🧠 About Me
 
-I'm a dedicated and detail-oriented **backend developer** with a passion for building efficient, secure, and scalable web applications. With a strong command over **Python**, **MySQL**, and **Node.js**, I love creating systems that are both technically sound and user-centric.
+I'm a passionate **full-stack developer** and **data analyst** with a strong foundation in **Python**, **data structures & algorithms (DSA)**, and web technologies. During my **6-month internship at Seven Mentor, Pune**, I focused on building backend systems, solving algorithmic problems.
 
-I recently completed a **6-month internship at Seven Mentor, Pune**, where I worked on backend logic, API integration, and database management. This hands-on experience sharpened my understanding of real-world software development, team collaboration, and agile workflows.
+I have hands-on experience implementing core computer science concepts and algorithms in real-world projects. My problem-solving mindset and attention to detail drive me to write clean, efficient, and maintainable code.
+
+🎯 **Career Goal**: To grow as a backend engineer and data analyst, contributing to scalable systems and insightful data solutions.
 
 I'm particularly drawn to:
 - **Designing clean and modular backend architectures**
@@ -60,7 +62,7 @@ In addition to backend development, I'm also experienced in **data analysis** us
 
 ## 📫 Let's Connect
 
-- 📧 Email: prathameshgujja2709@gmail.com  
+- 📧 Email: prathameshgujja10@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/prathamesh-gujja-82358a264/)  
 - 🌐 [Portfolio Website](https://github.com/prathaM27092000/Portfolio)
 
