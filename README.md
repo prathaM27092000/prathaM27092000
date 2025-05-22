@@ -63,7 +63,7 @@ In addition to backend development, I'm also experienced in **data analysis** us
 ## 📫 Let's Connect
 
 - 📧 Email: prathameshgujja10@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/prathamesh-gujja-82358a264/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/prathamesh-gujja/)  
 - 🌐 [Portfolio Website](https://github.com/prathaM27092000/Portfolio)
 
 ---
