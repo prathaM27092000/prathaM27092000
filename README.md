@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Prathamesh Gujja
 
-**Backend Developer | Python Enthusiast | Data Analyst**  
+**Fullstack Developer | Python developer | Data Analyst**  
 📍 Pune, India  
 📧 prathameshgujja10@gmail.com
 
