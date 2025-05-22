@@ -27,10 +27,10 @@ In addition to backend development, I'm also experienced in **data analysis** us
 ## 🛠️ Tech Stack
 
 - **Languages:** Python, JavaScript, SQL, HTML, CSS  
-- **Frameworks & Tools:** Flask, Node.js, MySQL, Git, REST APIs  
-- **Data Skills:** Pandas, NumPy, Matplotlib, Data Cleaning & Visualization  
-- **Others:** GitHub, VS Code, Postman, Agile Workflow
-
+- **Backend:** Flask, Node.js, MySQL, REST APIs  
+- **Frontend:** React.js, Next.js  
+- **Data Analysis & BI:** Pandas, NumPy, Matplotlib, Power BI, Tableau  
+- **Tools & Workflow:** Git, GitHub, Postman, VS Code, Agile Methodology  
 ---
 
 ## 🚀 Notable Projects
