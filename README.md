@@ -84,10 +84,10 @@ Seven Mentor (March 2024 - September 2024)
 
 Developed backend solutions using Python/Flask; applied data structures & algorithms for efficient processing pipelines.
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prathaM27092000&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+
 🤝 Let's Connect!
 I'm actively seeking challenging roles where I can apply my diverse skill set in Data Analysis, Business Intelligence, and Full Stack Development to contribute to a forward-thinking organization.
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prathaM27092000&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
 LinkedIn: linkedin.com/in/prathamesh-gujja
 
