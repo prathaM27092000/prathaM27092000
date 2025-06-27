@@ -1,71 +1,98 @@
-# 👋 Hello, I'm Prathamesh Gujja
+Hi there, I'm Prathamesh Gujja! 👋
+I'm a highly analytical and results-driven Data Analyst and Full Stack Developer passionate about transforming complex datasets into clear, actionable intelligence and building innovative, user-centric web solutions. My work sits at the exciting intersection of insightful data and robust application development.
 
-**Fullstack Developer | Python developer | Data Analyst**  
-📍 Pune, India  
-📧 prathameshgujja10@gmail.com
+🚀 My Expertise
+I specialize in the entire data lifecycle, from SQL-based data extraction, cleaning, and transformation to creating powerful visualizations that drive strategic decision-making. Concurrently, my full-stack development skills empower me to build responsive frontends and secure backend systems, solving real-world problems.
 
----
+I am particularly passionate about leveraging technology to uncover hidden patterns and craft intuitive tools that enhance efficiency and user experience.
 
-## 🧠 About Me
+📈 My GitHub Activity & Stats
+(These badges below show dynamic data about my GitHub activity. You can generate your own using services like GitHub Readme Stats, Shields.io, or other similar tools. Ensure you use the "dark" theme or a dark-compatible theme for consistency.)
 
-I'm a passionate **full-stack developer** and **data analyst** with a strong foundation in **Python**, **data structures & algorithms (DSA)**, and web technologies. During my **6-month internship at Seven Mentor, Pune**, I focused on building backend systems, solving algorithmic problems.
+🛠️ Skills & Technologies
+Data Analysis & Business Intelligence:
 
-I have hands-on experience implementing core computer science concepts and algorithms in real-world projects. My problem-solving mindset and attention to detail drive me to write clean, efficient, and maintainable code.
+SQL | MySQL | Microsoft Power BI | Tableau | Microsoft Excel
 
-🎯 **Career Goal**: To grow as a backend engineer and data analyst, contributing to scalable systems and insightful data solutions.
+Python (Pandas, Matplotlib) | Data Cleaning | Data Modeling | Data Visualization
 
-I'm particularly drawn to:
-- **Designing clean and modular backend architectures**
-- **Automating data-driven tasks and workflows**
-- **Solving algorithmic challenges and improving performance**
-- **Building dashboards and data visualizations for better decision-making**
+Forecasting | Business Intelligence (BI) | ETL (Extract, Transform, Load)
 
-In addition to backend development, I'm also experienced in **data analysis** using tools like **Pandas**, **NumPy**, and **Matplotlib**, helping translate raw data into actionable insights.
+Full Stack Development:
 
-🎯 **Career Goal**: To contribute to innovative backend and data-driven projects while continuously growing as a developer and problem solver.
+React.js | JavaScript | HTML | HTML5 | Cascading Style Sheets (CSS) | Tailwind CSS
 
----
+Python (Flask) | REST APIs | API Integration | Backend Development
 
-## 🛠️ Tech Stack
+User Authentication | JWT | bcrypt | Web Development | Frontend Development
 
-- **Languages:** Python, JavaScript, SQL, HTML, CSS  
-- **Backend:** Flask, Node.js, MySQL, REST APIs  
-- **Frontend:** React.js, Next.js  
-- **Data Analysis & BI:** Pandas, NumPy, Matplotlib, Power BI, Tableau  
-- **Tools & Workflow:** Git, GitHub, Postman, VS Code, Agile Methodology  
----
+Core Fundamentals & Tools:
 
-## 🚀 Notable Projects
+Problem Solving | Analytical Skills | Communication | Project Management | UI/UX
 
-- 🔐 [Secured User Authentication System](https://github.com/prathaM27092000/Secured-User-Authentication-System-Project)  
-  A secure login/signup system built with Flask and MySQL.
+Data Structures | Algorithms | Git | GitHub
 
-- 📊 [Sales Dashboard MultiView](https://github.com/prathaM27092000/Sales-Dashboard-MultiView)  
-  An interactive dashboard for analyzing and visualizing sales trends.
+C++ | C (Programming Language)
 
-- 🏨 [Hotel Management System](https://github.com/prathaM27092000/Hotel-Management)  
-  Backend management system for handling hotel bookings, billing, and admin tasks.
+🎯 Featured Projects
+Here are some of my key projects showcasing my diverse capabilities:
 
-- 🎥 [Netflix Content Recommender](https://github.com/prathaM27092000/Netflix-Content-Recommender)  
-  A recommendation system using Python and machine learning principles.
+SuperStore Sales Dashboard
 
-- 🔌 [EV Market Analysis](https://github.com/prathaM27092000/EV-Market-Analysis)  
-  Data analysis project exploring trends and insights in the electric vehicle sector.
+Description: Analyzed sales data for a large retail chain, using SQL for extraction and Power BI for interactive visualizations of KPIs like regional performance and product trends. Aimed at informing strategic planning.
 
----
+Tools: Power BI, SQL, Excel
 
-## 📊 GitHub Stats
+Hotel Hospitality Dashboard
 
-![Prathamesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prathaM27092000&show_icons=true&theme=tokyonight)
+Description: Developed an operational insights dashboard for the hospitality sector. Utilized SQL for data cleaning and aggregation, then presented key metrics like occupancy rates and revenue trends in Power BI.
 
----
+Tools: SQL, Power BI, Excel
 
-## 📫 Let's Connect
+British Airways Review Dashboard
 
-- 📧 Email: prathameshgujja10@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/prathamesh-gujja/)  
-- 🌐 [Portfolio Website](https://github.com/prathaM27092000/Portfolio)
+Description: Analyzed customer review data for an airline to evaluate performance. Used SQL for data cleaning/joining and Tableau to create an interactive dashboard showing customer satisfaction by aircraft and travel class.
 
----
+Tools: Tableau, SQL, Excel
 
-_Thanks for stopping by! I'm always open to collaboration, learning, and new opportunities._ 🚀
+GymGuy.AI – Responsive Fitness Web App
+
+Description: A single-page fitness recommendation app built with React.js. It connects to the ExerciseDB API via Axios for dynamic workout data, featuring a search bar to filter exercises. Optimized for responsiveness.
+
+Tools: React.js, JavaScript, REST API, Axios
+
+Spotify Clone – Music Streaming Web App
+
+Description: Frontend music player interface created in React.js. Includes custom play/pause controls, track progress, and playlist management using the HTML5 Audio API. Features a modern UI with real-time interactions.
+
+Tools: React.js, JavaScript, HTML5 Audio API, Webpack
+
+JWT-Secured User Authentication System
+
+Description: Backend system developed with Flask providing secure API endpoints for user login, registration, and access control. Employs JWT for authentication (access/refresh tokens) and bcrypt for secure password storage.
+
+Tools: Python, Flask, JWT, bcrypt, SQL, Postman
+
+🎓 Education & Experience
+Bachelor of Technology - Mechanical Engineering
+
+Punyashlok Ahilyadevi Holkar Solapur University, Solapur (June 2020 - May 2023)
+
+Python Developer (Internship)
+
+Seven Mentor (March 2024 - September 2024)
+
+Developed backend solutions using Python/Flask; applied data structures & algorithms for efficient processing pipelines.
+
+🤝 Let's Connect!
+I'm actively seeking challenging roles where I can apply my diverse skill set in Data Analysis, Business Intelligence, and Full Stack Development to contribute to a forward-thinking organization.
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prathaM27092000&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+
+LinkedIn: linkedin.com/in/prathamesh-gujja
+
+Email: prathameshgujja10@gmail.com
+
+My GitHub Profile: github.com/prathaM27092000
+
+Looking forward to discussing how my analytical insights and development capabilities can drive your team's success!
