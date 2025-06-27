@@ -7,7 +7,7 @@ I specialize in the entire data lifecycle, from SQL-based data extraction, clean
 I am particularly passionate about leveraging technology to uncover hidden patterns and craft intuitive tools that enhance efficiency and user experience.
 
 📈 My GitHub Activity & Stats
-(These badges below show dynamic data about my GitHub activity. You can generate your own using services like GitHub Readme Stats, Shields.io, or other similar tools. Ensure you use the "dark" theme or a dark-compatible theme for consistency.)
+(These badges below show dynamic data about my GitHub activity. You can generate your own using services like GitHub Readme Stats, Shields.io, or other similar tools. Make sure to replace prathaM27092000 with your actual GitHub username in the username= part of each link! Ensure you use the "dark" theme or a dark-compatible theme for consistency.)
 
 🛠️ Skills & Technologies
 Data Analysis & Business Intelligence:
@@ -43,11 +43,15 @@ Description: Analyzed sales data for a large retail chain, using SQL for extract
 
 Tools: Power BI, SQL, Excel
 
+GitHub Repository: https://github.com/prathaM27092000/SuperStore-Dashboard
+
 Hotel Hospitality Dashboard
 
 Description: Developed an operational insights dashboard for the hospitality sector. Utilized SQL for data cleaning and aggregation, then presented key metrics like occupancy rates and revenue trends in Power BI.
 
 Tools: SQL, Power BI, Excel
+
+GitHub Repository: https://github.com/prathaM27092000/Hotel-Management-Dashboard
 
 British Airways Review Dashboard
 
@@ -55,11 +59,15 @@ Description: Analyzed customer review data for an airline to evaluate performanc
 
 Tools: Tableau, SQL, Excel
 
+GitHub Repository: https://github.com/prathaM27092000/Airline-Dashboard
+
 GymGuy.AI – Responsive Fitness Web App
 
 Description: A single-page fitness recommendation app built with React.js. It connects to the ExerciseDB API via Axios for dynamic workout data, featuring a search bar to filter exercises. Optimized for responsiveness.
 
 Tools: React.js, JavaScript, REST API, Axios
+
+GitHub Repository: https://github.com/prathaM27092000/GymGuy.AI
 
 Spotify Clone – Music Streaming Web App
 
@@ -67,11 +75,15 @@ Description: Frontend music player interface created in React.js. Includes custo
 
 Tools: React.js, JavaScript, HTML5 Audio API, Webpack
 
+GitHub Repository: https://github.com/prathaM27092000/Spotify-Clone
+
 JWT-Secured User Authentication System
 
 Description: Backend system developed with Flask providing secure API endpoints for user login, registration, and access control. Employs JWT for authentication (access/refresh tokens) and bcrypt for secure password storage.
 
 Tools: Python, Flask, JWT, bcrypt, SQL, Postman
+
+GitHub Repository: https://github.com/prathaM27092000/Auth-System
 
 🎓 Education & Experience
 Bachelor of Technology - Mechanical Engineering
@@ -84,10 +96,10 @@ Seven Mentor (March 2024 - September 2024)
 
 Developed backend solutions using Python/Flask; applied data structures & algorithms for efficient processing pipelines.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prathaM27092000&theme=transparent&hide_border=true)](https://git.io/streak-stats)
-
 🤝 Let's Connect!
 I'm actively seeking challenging roles where I can apply my diverse skill set in Data Analysis, Business Intelligence, and Full Stack Development to contribute to a forward-thinking organization.
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prathaM27092000&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
 LinkedIn: linkedin.com/in/prathamesh-gujja
 
