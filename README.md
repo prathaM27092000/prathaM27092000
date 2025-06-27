@@ -1,5 +1,6 @@
 
 **Hi there, I'm Prathamesh Gujja! 👋**
+
 I'm a highly analytical and results-driven Data Analyst and Full Stack Developer passionate about transforming complex datasets into clear, actionable intelligence and building innovative, user-centric web solutions. My work sits at the exciting intersection of insightful data and robust application development.
 
 🚀 My Expertise
