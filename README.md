@@ -29,6 +29,21 @@ C++ | C (Programming Language)
 
 🎯 Featured Projects
 
+**[Credit Card Fraud Analytics Dashboard](https://github.com/prathaM27092000/Credit-Card-Fraud-Dashboard)**  
+Built a data-driven fraud detection dashboard analyzing patterns in transactional anomalies and fraud indicators.  
+Enhanced visibility into fraud hotspots and high-risk transaction types for proactive alerts.  
+**Tools:** Tableau, SQL, Excel
+
+**[Pharma Drug Sales Dashboard](https://github.com/prathaM27092000/Pharma-Sales-Dashboard)**  
+Created a sales performance dashboard for a pharmaceutical company covering revenue, product categories, and geography.  
+Enabled data-driven decisions for marketing and distribution strategies through insightful visuals.  
+**Tools:** Power BI, SQL, Excel
+
+**[E-commerce Sales Analysis](https://github.com/prathaM27092000/E-commerce-Sales-Analysis)**  
+Analyzed customer purchase behavior, sales performance, and category-wise trends across regions and quarters.  
+Designed dashboards in Power BI for actionable business insights and executive reporting.  
+**Tools:** Power BI, SQL, Excel
+
 **[SuperStore Sales Dashboard](https://github.com/prathaM27092000/SuperStore-Dashboard)**  
 Analyzed sales data for a large retail chain, using SQL for extraction and Power BI for interactive visualizations of KPIs like regional performance and product trends. Aimed at informing strategic planning.  
 **Tools:** Power BI, SQL, Excel
